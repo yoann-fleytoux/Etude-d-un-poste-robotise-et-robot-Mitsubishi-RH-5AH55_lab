@@ -1,0 +1,1306 @@
+﻿[04/13/16 09:33:03]: -----------------------------------------------
+[04/13/16 09:33:03]: Logger started
+[04/13/16 09:33:07]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/13/16 09:33:07]: Cycle time set to 0.004s
+[04/13/16 09:33:07]: Simulation cycle time set to 0.1s
+[04/13/16 09:33:07]: Controller IP address could not be updated
+[04/13/16 09:33:07]: Power shutdown delay set to 0 s
+[04/13/16 09:33:07]: Power hour count = 0:00:00
+[04/13/16 09:33:07]: Mac Address = error
+[04/13/16 09:33:07]: COM-PC: server created on all interfaces [5653]
+[04/13/16 09:33:07]: VAL3: s6.9.1 Feb 20 2012
+[04/13/16 09:33:07]: Option testMode: demo 
+[04/13/16 09:33:07]: Configuration Version: D24266424A 
+[04/13/16 09:33:07]: Machine Number: ? 
+[04/13/16 09:33:07]: Arm: rx60b-S2-R5 floor
+[04/13/16 09:33:07]: Arm serial number: ? 
+[04/13/16 09:33:07]: EP: s6.9 Nov 29 2011
+[04/13/16 09:33:07]: SCA: s6.9 Nov 29 2011
+[04/13/16 09:33:07]: PLC: s6.9 Nov 29 2011
+[04/13/16 09:33:07]: New profile : default
+[04/13/16 09:33:07]: End of arm power shutdown phase.
+[04/13/16 09:33:07]: COM-PC: create session 127.0.0.1 on port 49429 id=#60359824
+[04/13/16 09:33:09]: Unknown event:No answer
+[04/13/16 09:33:16]: MCP communication disconnected
+[04/13/16 09:33:17]: Mcp = TSimulated
+[04/13/16 09:33:17]: Unknown event:Communication established
+[04/13/16 09:33:17]: Working mode:manual.
+[04/13/16 09:33:47]: Working mode:invalid.
+[04/13/16 09:33:48]: Working mode:test.
+[04/13/16 09:33:49]: Working mode:invalid.
+[04/13/16 09:33:50]: Working mode:remote.
+[04/13/16 09:33:50]: Working mode:invalid.
+[04/13/16 09:33:50]: Working mode:automatic.
+[04/13/16 09:33:51]: Working mode:invalid.
+[04/13/16 09:33:51]: Working mode:manual.
+[04/13/16 09:33:52]: Settling arm power...
+[04/13/16 09:33:53]: Arm power settled.
+[04/13/16 09:33:53]: Unknown event:motion generator activated
+[04/13/16 09:34:23]: Manual motion mode:Joint
+[04/13/16 09:34:23]: Unknown event:motion generator desactivated
+[04/13/16 09:34:23]: Unknown event:motion generator activated
+[04/13/16 09:34:28]: Unknown event:Motion reports error while pushing a move.
+[04/13/16 09:34:28]: Unknown event:motion generator desactivated
+[04/13/16 09:34:28]: Unknown event:motion generator activated
+[04/13/16 09:34:31]: Jog move impossible: first select a jog mode.
+[04/13/16 09:34:32]: Jog move impossible: first select a jog mode. (6)
+[04/13/16 09:34:37]: Manual motion mode:Joint
+[04/13/16 09:34:37]: Unknown event:motion generator desactivated
+[04/13/16 09:34:37]: Unknown event:motion generator activated
+[04/13/16 09:35:50]: Arm power shutdown: working mode change.
+[04/13/16 09:35:50]: Arm power shutdown...
+[04/13/16 09:35:50]: Unknown event:motion generator desactivated
+[04/13/16 09:35:50]: Working mode:invalid.
+[04/13/16 09:35:50]: Working mode:test.
+[04/13/16 09:35:50]: End of arm power shutdown phase.
+[04/13/16 09:35:50]: Working mode:invalid.
+[04/13/16 09:35:51]: Working mode:remote.
+[04/13/16 09:35:51]: Working mode:invalid.
+[04/13/16 09:35:51]: Working mode:automatic.
+[04/13/16 09:35:54]: Saving controller context...
+[04/13/16 09:35:54]: Controller temperature: 28°C
+[04/13/16 09:35:54]: CPU temperature: 28°C
+[04/13/16 09:36:00]: Settling arm power...
+[04/13/16 09:36:00]: Arm power settled.
+[04/13/16 09:36:00]: Manual motion mode:Disabled
+[04/13/16 09:36:00]: Unknown event:motion generator activated
+[04/13/16 09:36:39]: viviane application started
+[04/13/16 09:36:39]: viviane application stopped
+[04/13/16 09:38:16]: viviane application started
+[04/13/16 09:38:16]: viviane application stopped
+[04/13/16 09:38:24]: viviane application started
+[04/13/16 09:38:24]: viviane application stopped
+[04/13/16 09:38:28]: viviane application started
+[04/13/16 09:38:29]: viviane application stopped
+[04/13/16 09:47:00]: -----------------------------------------------
+[04/13/16 09:47:00]: Logger started
+[04/13/16 09:47:04]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/13/16 09:47:04]: Cycle time set to 0.004s
+[04/13/16 09:47:04]: Simulation cycle time set to 0.1s
+[04/13/16 09:47:04]: Controller IP address could not be updated
+[04/13/16 09:47:04]: Power shutdown delay set to 0 s
+[04/13/16 09:47:04]: Power hour count = 0:00:00
+[04/13/16 09:47:04]: Mac Address = error
+[04/13/16 09:47:04]: COM-PC: server created on all interfaces [5653]
+[04/13/16 09:47:04]: VAL3: s6.9.1 Feb 20 2012
+[04/13/16 09:47:04]: Option testMode: demo 
+[04/13/16 09:47:04]: Configuration Version: D24266424A 
+[04/13/16 09:47:04]: Machine Number: ? 
+[04/13/16 09:47:04]: Arm: rx60b-S2-R5 floor
+[04/13/16 09:47:04]: Arm serial number: ? 
+[04/13/16 09:47:04]: EP: s6.9 Nov 29 2011
+[04/13/16 09:47:04]: SCA: s6.9 Nov 29 2011
+[04/13/16 09:47:04]: PLC: s6.9 Nov 29 2011
+[04/13/16 09:47:04]: New profile : default
+[04/13/16 09:47:05]: End of arm power shutdown phase.
+[04/13/16 09:47:05]: COM-PC: create session 127.0.0.1 on port 49901 id=#57525872
+[04/13/16 09:47:06]: Unknown event:No answer
+[04/13/16 09:47:13]: MCP communication disconnected
+[04/13/16 09:47:14]: Mcp = TSimulated
+[04/13/16 09:47:14]: Unknown event:Communication established
+[04/13/16 09:47:14]: Working mode:invalid.
+[04/13/16 09:47:14]: Working mode:manual.
+[04/13/16 09:47:19]: Working mode:invalid.
+[04/13/16 09:47:19]: Working mode:test.
+[04/13/16 09:47:20]: Working mode:invalid.
+[04/13/16 09:47:20]: Working mode:remote.
+[04/13/16 09:47:21]: Working mode:invalid.
+[04/13/16 09:47:21]: Working mode:automatic.
+[04/13/16 09:47:24]: Saving controller context...
+[04/13/16 09:47:24]: Controller temperature: 28°C
+[04/13/16 09:47:24]: CPU temperature: 28°C
+[04/13/16 09:47:28]: Settling arm power...
+[04/13/16 09:47:28]: Arm power settled.
+[04/13/16 09:47:29]: Unknown event:motion generator activated
+[04/13/16 09:48:13]: viviane application started
+[04/13/16 09:48:24]: Cannot move: cannot cross singularity in this case.
+[04/13/16 09:48:24]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[04/19/16 17:29:31]: -----------------------------------------------
+[04/19/16 17:29:31]: Logger started
+[04/19/16 17:29:35]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/19/16 17:29:35]: Cycle time set to 0.004s
+[04/19/16 17:29:35]: Simulation cycle time set to 0.1s
+[04/19/16 17:29:35]: Controller IP address could not be updated
+[04/19/16 17:29:35]: Power shutdown delay set to 0 s
+[04/19/16 17:29:35]: Power hour count = 0:00:00
+[04/19/16 17:29:35]: Mac Address = error
+[04/19/16 17:29:35]: COM-PC: server created on all interfaces [5653]
+[04/19/16 17:29:35]: VAL3: s6.9.1 Feb 20 2012
+[04/19/16 17:29:35]: Option testMode: demo 
+[04/19/16 17:29:35]: Configuration Version: D24266424A 
+[04/19/16 17:29:35]: Machine Number: ? 
+[04/19/16 17:29:35]: Arm: rx60b-S2-R5 floor
+[04/19/16 17:29:35]: Arm serial number: ? 
+[04/19/16 17:29:35]: EP: s6.9 Nov 29 2011
+[04/19/16 17:29:35]: SCA: s6.9 Nov 29 2011
+[04/19/16 17:29:35]: PLC: s6.9 Nov 29 2011
+[04/19/16 17:29:35]: New profile : default
+[04/19/16 17:29:35]: End of arm power shutdown phase.
+[04/19/16 17:29:36]: COM-PC: create session 127.0.0.1 on port 52673 id=#59245872
+[04/19/16 17:29:37]: Unknown event:No answer
+[04/19/16 17:29:44]: MCP communication disconnected
+[04/19/16 17:29:45]: Mcp = TSimulated
+[04/19/16 17:29:45]: Unknown event:Communication established
+[04/19/16 17:29:45]: Working mode:invalid.
+[04/19/16 17:29:45]: Working mode:manual.
+[04/19/16 17:29:50]: Saving controller context...
+[04/19/16 17:29:50]: Controller temperature: 28°C
+[04/19/16 17:29:50]: CPU temperature: 28°C
+[04/19/16 17:29:51]: Working mode:invalid.
+[04/19/16 17:29:51]: Working mode:test.
+[04/19/16 17:29:52]: Working mode:invalid.
+[04/19/16 17:29:52]: Working mode:remote.
+[04/19/16 17:29:52]: Working mode:invalid.
+[04/19/16 17:29:53]: Working mode:automatic.
+[04/19/16 17:29:55]: Saving controller context...
+[04/19/16 17:31:19]: Settling arm power...
+[04/19/16 17:31:20]: Arm power settled.
+[04/19/16 17:31:20]: Unknown event:motion generator activated
+[04/19/16 17:31:24]: viviane application started
+[04/19/16 17:31:43]: Cannot move: cannot cross singularity in this case.
+[04/19/16 17:31:43]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[04/19/16 17:32:27]: viviane application stopped
+[04/19/16 17:32:47]: viviane application started
+[04/19/16 17:32:47]: Cannot move: cannot cross singularity in this case.
+[04/19/16 17:32:47]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[04/19/16 17:33:07]: viviane application stopped
+[04/19/16 17:33:14]: Arm power shutdown: working mode change.
+[04/19/16 17:33:14]: Arm power shutdown...
+[04/19/16 17:33:14]: Unknown event:motion generator desactivated
+[04/19/16 17:33:14]: Working mode:invalid.
+[04/19/16 17:33:14]: Working mode:manual.
+[04/19/16 17:33:14]: End of arm power shutdown phase.
+[04/19/16 17:33:18]: Saving controller context...
+[04/19/16 17:33:21]: Settling arm power...
+[04/19/16 17:33:21]: Arm power settled.
+[04/19/16 17:33:21]: Unknown event:motion generator activated
+[04/19/16 17:33:24]: Manual motion mode:Joint
+[04/19/16 17:33:25]: Unknown event:motion generator desactivated
+[04/19/16 17:33:25]: Unknown event:motion generator activated
+[04/19/16 17:33:36]: Unknown event:Motion reports error while pushing a move.
+[04/19/16 17:33:36]: Unknown event:motion generator desactivated
+[04/19/16 17:33:36]: Unknown event:motion generator activated
+[04/19/16 17:33:43]: Manual motion mode:Joint
+[04/19/16 17:33:43]: Unknown event:motion generator desactivated
+[04/19/16 17:33:43]: Unknown event:motion generator activated
+[04/19/16 17:33:51]: Unknown event:Motion reports error while pushing a move.
+[04/19/16 17:33:52]: Unknown event:motion generator desactivated
+[04/19/16 17:33:52]: Unknown event:motion generator activated
+[04/19/16 17:34:13]: Unknown event:motion generator desactivated
+[04/19/16 17:34:13]: Arm power shutdown...
+[04/19/16 17:34:14]: End of arm power shutdown phase.
+[04/19/16 17:34:16]: Saving controller context...
+[04/19/16 17:34:16]: Settling arm power...
+[04/19/16 17:34:17]: Arm power settled.
+[04/19/16 17:34:17]: Unknown event:motion generator activated
+[04/19/16 17:34:56]: -----------------------------------------------
+[04/19/16 17:34:56]: Logger started
+[04/19/16 17:35:01]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/19/16 17:35:01]: Cycle time set to 0.004s
+[04/19/16 17:35:01]: Simulation cycle time set to 0.1s
+[04/19/16 17:35:01]: Controller IP address could not be updated
+[04/19/16 17:35:01]: Power shutdown delay set to 0 s
+[04/19/16 17:35:01]: Power hour count = 0:00:00
+[04/19/16 17:35:01]: Mac Address = error
+[04/19/16 17:35:01]: COM-PC: server created on all interfaces [5653]
+[04/19/16 17:35:01]: VAL3: s6.9.1 Feb 20 2012
+[04/19/16 17:35:01]: Option testMode: demo 
+[04/19/16 17:35:01]: Configuration Version: D24266424A 
+[04/19/16 17:35:01]: Machine Number: ? 
+[04/19/16 17:35:01]: Arm: rx60b-S2-R5 floor
+[04/19/16 17:35:01]: Arm serial number: ? 
+[04/19/16 17:35:01]: EP: s6.9 Nov 29 2011
+[04/19/16 17:35:01]: SCA: s6.9 Nov 29 2011
+[04/19/16 17:35:01]: PLC: s6.9 Nov 29 2011
+[04/19/16 17:35:01]: New profile : default
+[04/19/16 17:35:01]: COM-PC: create session 127.0.0.1 on port 52731 id=#60753408
+[04/19/16 17:35:01]: End of arm power shutdown phase.
+[04/19/16 17:35:02]: Unknown event:No answer
+[04/19/16 17:35:08]: MCP communication disconnected
+[04/19/16 17:35:10]: Mcp = TSimulated
+[04/19/16 17:35:10]: Unknown event:Communication established
+[04/19/16 17:35:10]: Working mode:manual.
+[04/19/16 17:35:49]: Settling arm power...
+[04/19/16 17:35:49]: Arm power settled.
+[04/19/16 17:35:50]: Unknown event:motion generator activated
+[04/19/16 17:35:55]: Manual motion mode:Joint
+[04/19/16 17:35:55]: Unknown event:motion generator desactivated
+[04/19/16 17:35:55]: Unknown event:motion generator activated
+[04/19/16 17:36:09]: Unknown event:motion generator desactivated
+[04/19/16 17:36:10]: Arm power shutdown...
+[04/19/16 17:36:10]: End of arm power shutdown phase.
+[04/19/16 17:36:11]: Working mode:invalid.
+[04/19/16 17:36:11]: Working mode:test.
+[04/19/16 17:36:12]: Working mode:invalid.
+[04/19/16 17:36:12]: Working mode:remote.
+[04/19/16 17:36:13]: Working mode:invalid.
+[04/19/16 17:36:13]: Working mode:automatic.
+[04/19/16 17:36:14]: Settling arm power...
+[04/19/16 17:36:15]: Arm power settled.
+[04/19/16 17:36:15]: Manual motion mode:Disabled
+[04/19/16 17:36:15]: Unknown event:motion generator activated
+[04/19/16 17:36:15]: Saving controller context...
+[04/19/16 17:36:15]: Controller temperature: 28°C
+[04/19/16 17:36:15]: CPU temperature: 28°C
+[04/19/16 17:36:30]: viviane application started
+[04/19/16 17:36:34]: Cannot move: cannot cross singularity in this case.
+[04/19/16 17:36:34]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[04/19/16 17:37:01]: viviane application stopped
+[04/19/16 17:37:57]: -----------------------------------------------
+[04/19/16 17:37:57]: Logger started
+[04/19/16 17:38:01]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/19/16 17:38:01]: Cycle time set to 0.004s
+[04/19/16 17:38:01]: Simulation cycle time set to 0.1s
+[04/19/16 17:38:01]: Controller IP address could not be updated
+[04/19/16 17:38:01]: Power shutdown delay set to 0 s
+[04/19/16 17:38:01]: Power hour count = 0:00:00
+[04/19/16 17:38:01]: Mac Address = error
+[04/19/16 17:38:01]: COM-PC: server created on all interfaces [5653]
+[04/19/16 17:38:01]: VAL3: s6.9.1 Feb 20 2012
+[04/19/16 17:38:01]: Option testMode: demo 
+[04/19/16 17:38:01]: Configuration Version: D24266424A 
+[04/19/16 17:38:01]: Machine Number: ? 
+[04/19/16 17:38:01]: Arm: rx60b-S2-R5 floor
+[04/19/16 17:38:01]: Arm serial number: ? 
+[04/19/16 17:38:01]: EP: s6.9 Nov 29 2011
+[04/19/16 17:38:01]: SCA: s6.9 Nov 29 2011
+[04/19/16 17:38:01]: PLC: s6.9 Nov 29 2011
+[04/19/16 17:38:01]: New profile : default
+[04/19/16 17:38:01]: End of arm power shutdown phase.
+[04/19/16 17:38:01]: COM-PC: create session 127.0.0.1 on port 52841 id=#61277800
+[04/19/16 17:38:03]: Unknown event:No answer
+[04/19/16 17:38:09]: MCP communication disconnected
+[04/19/16 17:38:11]: Mcp = TSimulated
+[04/19/16 17:38:11]: Unknown event:Communication established
+[04/19/16 17:38:11]: Working mode:automatic.
+[04/19/16 17:38:28]: Settling arm power...
+[04/19/16 17:38:28]: Arm power settled.
+[04/19/16 17:38:29]: Unknown event:motion generator activated
+[04/19/16 17:38:38]: viviane application started
+[04/19/16 17:38:43]: viviane application stopped
+[04/19/16 17:38:50]: viviane application started
+[04/19/16 17:38:53]: viviane application stopped
+[04/19/16 17:42:51]: -----------------------------------------------
+[04/19/16 17:42:51]: Logger started
+[04/19/16 17:42:55]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/19/16 17:42:55]: Cycle time set to 0.004s
+[04/19/16 17:42:55]: Simulation cycle time set to 0.1s
+[04/19/16 17:42:55]: Controller IP address could not be updated
+[04/19/16 17:42:55]: Power shutdown delay set to 0 s
+[04/19/16 17:42:55]: Power hour count = 0:00:00
+[04/19/16 17:42:55]: Mac Address = error
+[04/19/16 17:42:55]: COM-PC: server created on all interfaces [5653]
+[04/19/16 17:42:55]: VAL3: s6.9.1 Feb 20 2012
+[04/19/16 17:42:55]: Option testMode: demo 
+[04/19/16 17:42:55]: Configuration Version: D24266424A 
+[04/19/16 17:42:55]: Machine Number: ? 
+[04/19/16 17:42:55]: Arm: rx60b-S2-R5 floor
+[04/19/16 17:42:55]: Arm serial number: ? 
+[04/19/16 17:42:55]: EP: s6.9 Nov 29 2011
+[04/19/16 17:42:55]: SCA: s6.9 Nov 29 2011
+[04/19/16 17:42:55]: PLC: s6.9 Nov 29 2011
+[04/19/16 17:42:55]: New profile : default
+[04/19/16 17:42:55]: End of arm power shutdown phase.
+[04/19/16 17:42:55]: COM-PC: create session 127.0.0.1 on port 52961 id=#60229120
+[04/19/16 17:42:57]: Unknown event:No answer
+[04/19/16 17:43:03]: MCP communication disconnected
+[04/19/16 17:43:05]: Mcp = TSimulated
+[04/19/16 17:43:05]: Unknown event:Communication established
+[04/19/16 17:43:05]: Working mode:automatic.
+[04/19/16 17:44:03]: Settling arm power...
+[04/19/16 17:44:03]: Arm power settled.
+[04/19/16 17:44:03]: Unknown event:motion generator activated
+[04/19/16 17:45:06]: viviane application started
+[04/19/16 17:45:28]: viviane application stopped
+[04/19/16 17:46:09]: viviane application started
+[04/19/16 17:46:18]: viviane application stopped
+[04/19/16 17:49:33]: viviane application started
+[04/19/16 17:49:37]: viviane application stopped
+[04/19/16 17:50:11]: -----------------------------------------------
+[04/19/16 17:50:11]: Logger started
+[04/19/16 17:50:15]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/19/16 17:50:15]: Cycle time set to 0.004s
+[04/19/16 17:50:15]: Simulation cycle time set to 0.1s
+[04/19/16 17:50:15]: Controller IP address could not be updated
+[04/19/16 17:50:15]: Power shutdown delay set to 0 s
+[04/19/16 17:50:15]: Power hour count = 0:00:00
+[04/19/16 17:50:15]: Mac Address = error
+[04/19/16 17:50:15]: COM-PC: server created on all interfaces [5653]
+[04/19/16 17:50:15]: VAL3: s6.9.1 Feb 20 2012
+[04/19/16 17:50:15]: Option testMode: demo 
+[04/19/16 17:50:15]: Configuration Version: D24266424A 
+[04/19/16 17:50:15]: Machine Number: ? 
+[04/19/16 17:50:15]: Arm: rx60b-S2-R5 floor
+[04/19/16 17:50:15]: Arm serial number: ? 
+[04/19/16 17:50:15]: EP: s6.9 Nov 29 2011
+[04/19/16 17:50:15]: SCA: s6.9 Nov 29 2011
+[04/19/16 17:50:15]: PLC: s6.9 Nov 29 2011
+[04/19/16 17:50:15]: New profile : default
+[04/19/16 17:50:15]: COM-PC: create session 127.0.0.1 on port 53023 id=#60294600
+[04/19/16 17:50:15]: End of arm power shutdown phase.
+[04/19/16 17:50:17]: Unknown event:No answer
+[04/19/16 17:50:23]: MCP communication disconnected
+[04/19/16 17:50:25]: Mcp = TSimulated
+[04/19/16 17:50:25]: Unknown event:Communication established
+[04/19/16 17:50:25]: Working mode:automatic.
+[04/19/16 17:50:35]: Settling arm power...
+[04/19/16 17:50:35]: Arm power settled.
+[04/19/16 17:50:36]: Unknown event:motion generator activated
+[04/19/16 17:50:45]: viviane application started
+[04/19/16 17:50:49]: viviane application stopped
+[04/20/16 12:13:50]: -----------------------------------------------
+[04/20/16 12:13:50]: Logger started
+[04/20/16 12:13:54]: Unknown event:Communication established
+[04/20/16 12:13:55]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 12:13:55]: Cycle time set to 0.004s
+[04/20/16 12:13:55]: Simulation cycle time set to 0.1s
+[04/20/16 12:13:55]: Controller IP address could not be updated
+[04/20/16 12:13:55]: Mcp = TSimulated
+[04/20/16 12:13:55]: Power shutdown delay set to 0 s
+[04/20/16 12:13:55]: Power hour count = 0:00:00
+[04/20/16 12:13:55]: Mac Address = error
+[04/20/16 12:13:55]: Working mode:invalid.
+[04/20/16 12:13:55]: End of arm power shutdown phase.
+[04/20/16 12:13:55]: COM-PC: server created on all interfaces [5653]
+[04/20/16 12:13:55]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 12:13:55]: Option testMode: demo 
+[04/20/16 12:13:55]: Configuration Version: D24266424A 
+[04/20/16 12:13:55]: Machine Number: ? 
+[04/20/16 12:13:55]: Arm: rx60b-S2-R5 floor
+[04/20/16 12:13:55]: Arm serial number: ? 
+[04/20/16 12:13:55]: EP: s6.9 Nov 29 2011
+[04/20/16 12:13:55]: SCA: s6.9 Nov 29 2011
+[04/20/16 12:13:55]: PLC: s6.9 Nov 29 2011
+[04/20/16 12:13:55]: New profile : default
+[04/20/16 12:13:55]: Working mode:automatic.
+[04/20/16 12:13:55]: COM-PC: create session 127.0.0.1 on port 49317 id=#60818840
+[04/20/16 12:14:29]: Settling arm power...
+[04/20/16 12:14:30]: Arm power settled.
+[04/20/16 12:14:30]: Unknown event:motion generator activated
+[04/20/16 12:14:41]: viviane application started
+[04/20/16 12:14:50]: viviane application stopped
+[04/20/16 12:14:54]: Unknown event:motion generator desactivated
+[04/20/16 12:14:55]: Arm power shutdown...
+[04/20/16 12:14:55]: End of arm power shutdown phase.
+[04/20/16 12:14:57]: Saving controller context...
+[04/20/16 12:14:57]: Controller temperature: 28°C
+[04/20/16 12:14:57]: CPU temperature: 28°C
+[04/20/16 12:14:59]: Working mode:invalid.
+[04/20/16 12:14:59]: Working mode:manual.
+[04/20/16 12:15:00]: Settling arm power...
+[04/20/16 12:15:01]: Arm power settled.
+[04/20/16 12:15:01]: Unknown event:motion generator activated
+[04/20/16 12:15:02]: Manual motion mode:Joint
+[04/20/16 12:15:02]: Unknown event:motion generator desactivated
+[04/20/16 12:15:02]: Unknown event:motion generator activated
+[04/20/16 12:17:02]: Manual motion mode:Frame
+[04/20/16 12:17:59]: Manual motion mode:Joint
+[04/20/16 12:21:23]: -----------------------------------------------
+[04/20/16 12:21:23]: Logger started
+[04/20/16 12:21:27]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 12:21:27]: Cycle time set to 0.004s
+[04/20/16 12:21:27]: Simulation cycle time set to 0.1s
+[04/20/16 12:21:27]: Controller IP address could not be updated
+[04/20/16 12:21:27]: Power shutdown delay set to 0 s
+[04/20/16 12:21:27]: Power hour count = 0:00:00
+[04/20/16 12:21:27]: Mac Address = error
+[04/20/16 12:21:27]: COM-PC: server created on all interfaces [5653]
+[04/20/16 12:21:27]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 12:21:27]: Option testMode: demo 
+[04/20/16 12:21:27]: Configuration Version: D24266424A 
+[04/20/16 12:21:27]: Machine Number: ? 
+[04/20/16 12:21:27]: Arm: rx60b-S2-R5 floor
+[04/20/16 12:21:27]: Arm serial number: ? 
+[04/20/16 12:21:27]: EP: s6.9 Nov 29 2011
+[04/20/16 12:21:27]: SCA: s6.9 Nov 29 2011
+[04/20/16 12:21:27]: PLC: s6.9 Nov 29 2011
+[04/20/16 12:21:27]: New profile : default
+[04/20/16 12:21:27]: End of arm power shutdown phase.
+[04/20/16 12:21:27]: COM-PC: create session 127.0.0.1 on port 49395 id=#59573760
+[04/20/16 12:21:28]: Unknown event:No answer
+[04/20/16 12:21:35]: MCP communication disconnected
+[04/20/16 12:21:36]: Mcp = TSimulated
+[04/20/16 12:21:36]: Unknown event:Communication established
+[04/20/16 12:21:37]: Working mode:automatic.
+[04/20/16 12:21:51]: Settling arm power...
+[04/20/16 12:21:51]: Arm power settled.
+[04/20/16 12:21:51]: Unknown event:motion generator activated
+[04/20/16 12:22:02]: viviane application started
+[04/20/16 12:22:12]: viviane application stopped
+[04/20/16 12:22:32]: Unknown event:motion generator desactivated
+[04/20/16 12:22:32]: Arm power shutdown...
+[04/20/16 12:22:32]: End of arm power shutdown phase.
+[04/20/16 12:22:34]: Saving controller context...
+[04/20/16 12:22:34]: Controller temperature: 28°C
+[04/20/16 12:22:34]: CPU temperature: 28°C
+[04/20/16 12:23:25]: Settling arm power...
+[04/20/16 12:23:25]: Arm power settled.
+[04/20/16 12:23:26]: Unknown event:motion generator activated
+[04/20/16 12:23:55]: viviane application started
+[04/20/16 12:24:01]: viviane application stopped
+[04/20/16 12:24:14]: viviane application started
+[04/20/16 12:24:21]: viviane application stopped
+[04/20/16 12:24:33]: viviane application started
+[04/20/16 12:24:38]: viviane application stopped
+[04/20/16 12:26:25]: -----------------------------------------------
+[04/20/16 12:26:25]: Logger started
+[04/20/16 12:26:29]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 12:26:29]: Cycle time set to 0.004s
+[04/20/16 12:26:29]: Simulation cycle time set to 0.1s
+[04/20/16 12:26:29]: Controller IP address could not be updated
+[04/20/16 12:26:29]: Power shutdown delay set to 0 s
+[04/20/16 12:26:29]: Power hour count = 0:00:00
+[04/20/16 12:26:29]: Mac Address = error
+[04/20/16 12:26:29]: COM-PC: server created on all interfaces [5653]
+[04/20/16 12:26:29]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 12:26:29]: Option testMode: demo 
+[04/20/16 12:26:29]: Configuration Version: D24266424A 
+[04/20/16 12:26:29]: Machine Number: ? 
+[04/20/16 12:26:29]: Arm: rx60b-S2-R5 floor
+[04/20/16 12:26:29]: Arm serial number: ? 
+[04/20/16 12:26:29]: EP: s6.9 Nov 29 2011
+[04/20/16 12:26:29]: SCA: s6.9 Nov 29 2011
+[04/20/16 12:26:29]: PLC: s6.9 Nov 29 2011
+[04/20/16 12:26:29]: New profile : default
+[04/20/16 12:26:30]: End of arm power shutdown phase.
+[04/20/16 12:26:30]: COM-PC: create session 127.0.0.1 on port 49449 id=#60884584
+[04/20/16 12:26:31]: Unknown event:No answer
+[04/20/16 12:26:38]: MCP communication disconnected
+[04/20/16 12:26:39]: Mcp = TSimulated
+[04/20/16 12:26:39]: Unknown event:Communication established
+[04/20/16 12:26:39]: Working mode:invalid.
+[04/20/16 12:26:39]: Working mode:manual.
+[04/20/16 12:26:42]: Saving controller context...
+[04/20/16 12:26:42]: Controller temperature: 28°C
+[04/20/16 12:26:42]: CPU temperature: 28°C
+[04/20/16 12:26:49]: Settling arm power...
+[04/20/16 12:26:49]: Arm power settled.
+[04/20/16 12:26:50]: Unknown event:motion generator activated
+[04/20/16 12:27:01]: viviane application started
+[04/20/16 12:27:24]: viviane application stopped
+[04/20/16 12:27:37]: viviane application started
+[04/20/16 12:27:47]: viviane application stopped
+[04/20/16 12:28:24]: viviane application started
+[04/20/16 12:28:33]: viviane application stopped
+[04/20/16 12:31:07]: viviane application started
+[04/20/16 12:31:19]: viviane application stopped
+[04/20/16 12:36:56]: Arm power shutdown: working mode change.
+[04/20/16 12:36:56]: Arm power shutdown...
+[04/20/16 12:36:56]: Unknown event:motion generator desactivated
+[04/20/16 12:36:56]: Working mode:invalid.
+[04/20/16 12:36:56]: Working mode:test.
+[04/20/16 12:36:57]: End of arm power shutdown phase.
+[04/20/16 12:36:57]: Working mode:invalid.
+[04/20/16 12:36:57]: Working mode:remote.
+[04/20/16 12:36:58]: Working mode:invalid.
+[04/20/16 12:36:58]: Working mode:automatic.
+[04/20/16 12:37:00]: Settling arm power...
+[04/20/16 12:37:00]: Arm power settled.
+[04/20/16 12:37:01]: Unknown event:motion generator activated
+[04/20/16 12:37:14]: viviane application started
+[04/20/16 12:37:21]: viviane application stopped
+[04/20/16 12:53:13]: MCP communication disconnected
+[04/20/16 12:53:13]: Arm power shutdown: working mode change.
+[04/20/16 12:53:13]: Arm power shutdown...
+[04/20/16 12:53:13]: Unknown event:motion generator desactivated
+[04/20/16 12:53:14]: End of arm power shutdown phase.
+[04/20/16 12:53:27]: -----------------------------------------------
+[04/20/16 12:53:27]: Logger started
+[04/20/16 12:53:31]: Unknown event:Communication established
+[04/20/16 12:53:31]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 12:53:31]: Cycle time set to 0.004s
+[04/20/16 12:53:31]: Simulation cycle time set to 0.1s
+[04/20/16 12:53:31]: Controller IP address could not be updated
+[04/20/16 12:53:31]: Mcp = TSimulated
+[04/20/16 12:53:31]: Power shutdown delay set to 0 s
+[04/20/16 12:53:31]: Power hour count = 0:00:00
+[04/20/16 12:53:31]: Mac Address = error
+[04/20/16 12:53:31]: Working mode:invalid.
+[04/20/16 12:53:31]: COM-PC: server created on all interfaces [5653]
+[04/20/16 12:53:31]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 12:53:31]: Option testMode: demo 
+[04/20/16 12:53:31]: Configuration Version: D24266424A 
+[04/20/16 12:53:31]: Machine Number: ? 
+[04/20/16 12:53:31]: Arm: rx60b-S2-R5 floor
+[04/20/16 12:53:31]: Arm serial number: ? 
+[04/20/16 12:53:31]: EP: s6.9 Nov 29 2011
+[04/20/16 12:53:31]: SCA: s6.9 Nov 29 2011
+[04/20/16 12:53:31]: PLC: s6.9 Nov 29 2011
+[04/20/16 12:53:31]: New profile : default
+[04/20/16 12:53:31]: Working mode:manual.
+[04/20/16 12:53:31]: End of arm power shutdown phase.
+[04/20/16 12:53:31]: COM-PC: create session 127.0.0.1 on port 49721 id=#61080984
+[04/20/16 12:54:05]: Settling arm power...
+[04/20/16 12:54:06]: Arm power settled.
+[04/20/16 12:54:06]: Unknown event:motion generator activated
+[04/20/16 12:54:11]: viviane application started
+[04/20/16 12:54:52]: viviane application stopped
+[04/20/16 12:55:40]: Manual motion mode:Joint
+[04/20/16 12:55:40]: Unknown event:motion generator desactivated
+[04/20/16 12:55:40]: Unknown event:motion generator activated
+[04/20/16 12:58:06]: Unknown event:motion generator desactivated
+[04/20/16 12:58:06]: Arm power shutdown...
+[04/20/16 12:58:07]: End of arm power shutdown phase.
+[04/20/16 12:58:09]: Saving controller context...
+[04/20/16 12:58:09]: Controller temperature: 28°C
+[04/20/16 12:58:09]: CPU temperature: 28°C
+[04/20/16 13:17:15]: -----------------------------------------------
+[04/20/16 13:17:15]: Logger started
+[04/20/16 13:17:19]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 13:17:19]: Cycle time set to 0.004s
+[04/20/16 13:17:19]: Simulation cycle time set to 0.1s
+[04/20/16 13:17:19]: Controller IP address could not be updated
+[04/20/16 13:17:19]: Power shutdown delay set to 0 s
+[04/20/16 13:17:19]: Power hour count = 0:00:00
+[04/20/16 13:17:19]: Mac Address = error
+[04/20/16 13:17:19]: COM-PC: server created on all interfaces [5653]
+[04/20/16 13:17:19]: COM-PC: create session 127.0.0.1 on port 49907 id=#57130888
+[04/20/16 13:17:19]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 13:17:19]: Option testMode: demo 
+[04/20/16 13:17:19]: Configuration Version: D24266424A 
+[04/20/16 13:17:19]: Machine Number: ? 
+[04/20/16 13:17:19]: Arm: rx60b-S2-R5 floor
+[04/20/16 13:17:19]: Arm serial number: ? 
+[04/20/16 13:17:19]: EP: s6.9 Nov 29 2011
+[04/20/16 13:17:19]: SCA: s6.9 Nov 29 2011
+[04/20/16 13:17:19]: PLC: s6.9 Nov 29 2011
+[04/20/16 13:17:19]: New profile : default
+[04/20/16 13:17:20]: End of arm power shutdown phase.
+[04/20/16 13:17:22]: Unknown event:No answer
+[04/20/16 13:17:28]: MCP communication disconnected
+[04/20/16 13:17:30]: Mcp = TSimulated
+[04/20/16 13:17:30]: Unknown event:Communication established
+[04/20/16 13:17:30]: Working mode:manual.
+[04/20/16 13:17:43]: Settling arm power...
+[04/20/16 13:17:44]: Arm power settled.
+[04/20/16 13:17:44]: Unknown event:motion generator activated
+[04/20/16 13:17:51]: viviane application started
+[04/20/16 13:17:51]: Cannot complete move: destination is out of reach.
+[04/20/16 13:17:51]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[04/20/16 13:19:05]: -----------------------------------------------
+[04/20/16 13:19:05]: Logger started
+[04/20/16 13:19:09]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 13:19:09]: Cycle time set to 0.004s
+[04/20/16 13:19:09]: Simulation cycle time set to 0.1s
+[04/20/16 13:19:09]: Controller IP address could not be updated
+[04/20/16 13:19:09]: Power shutdown delay set to 0 s
+[04/20/16 13:19:09]: Power hour count = 0:00:00
+[04/20/16 13:19:09]: Mac Address = error
+[04/20/16 13:19:09]: COM-PC: server created on all interfaces [5653]
+[04/20/16 13:19:09]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 13:19:09]: Option testMode: demo 
+[04/20/16 13:19:09]: Configuration Version: D24266424A 
+[04/20/16 13:19:09]: Machine Number: ? 
+[04/20/16 13:19:09]: Arm: rx60b-S2-R5 floor
+[04/20/16 13:19:09]: Arm serial number: ? 
+[04/20/16 13:19:09]: EP: s6.9 Nov 29 2011
+[04/20/16 13:19:09]: SCA: s6.9 Nov 29 2011
+[04/20/16 13:19:09]: PLC: s6.9 Nov 29 2011
+[04/20/16 13:19:09]: New profile : default
+[04/20/16 13:19:09]: End of arm power shutdown phase.
+[04/20/16 13:19:09]: COM-PC: create session 127.0.0.1 on port 49935 id=#60622072
+[04/20/16 13:19:11]: Unknown event:No answer
+[04/20/16 13:19:17]: MCP communication disconnected
+[04/20/16 13:19:19]: Mcp = TSimulated
+[04/20/16 13:19:19]: Unknown event:Communication established
+[04/20/16 13:19:19]: Working mode:manual.
+[04/20/16 13:19:52]: Settling arm power...
+[04/20/16 13:19:53]: Arm power settled.
+[04/20/16 13:19:53]: Unknown event:motion generator activated
+[04/20/16 13:20:02]: viviane application started
+[04/20/16 13:20:02]: Cannot complete move: destination is out of reach.
+[04/20/16 13:20:02]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[04/20/16 13:22:26]: -----------------------------------------------
+[04/20/16 13:22:26]: Logger started
+[04/20/16 13:22:30]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 13:22:30]: Cycle time set to 0.004s
+[04/20/16 13:22:30]: Simulation cycle time set to 0.1s
+[04/20/16 13:22:30]: Controller IP address could not be updated
+[04/20/16 13:22:30]: Power shutdown delay set to 0 s
+[04/20/16 13:22:30]: Power hour count = 0:00:00
+[04/20/16 13:22:30]: Mac Address = error
+[04/20/16 13:22:30]: COM-PC: server created on all interfaces [5653]
+[04/20/16 13:22:30]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 13:22:30]: Option testMode: demo 
+[04/20/16 13:22:30]: Configuration Version: D24266424A 
+[04/20/16 13:22:30]: Machine Number: ? 
+[04/20/16 13:22:30]: Arm: rx60b-S2-R5 floor
+[04/20/16 13:22:30]: Arm serial number: ? 
+[04/20/16 13:22:30]: EP: s6.9 Nov 29 2011
+[04/20/16 13:22:30]: SCA: s6.9 Nov 29 2011
+[04/20/16 13:22:30]: PLC: s6.9 Nov 29 2011
+[04/20/16 13:22:30]: New profile : default
+[04/20/16 13:22:30]: COM-PC: create session 127.0.0.1 on port 49986 id=#60229224
+[04/20/16 13:22:30]: End of arm power shutdown phase.
+[04/20/16 13:22:32]: Unknown event:No answer
+[04/20/16 13:22:39]: MCP communication disconnected
+[04/20/16 13:22:40]: Mcp = TSimulated
+[04/20/16 13:22:40]: Unknown event:Communication established
+[04/20/16 13:22:40]: Working mode:manual.
+[04/20/16 13:22:54]: Settling arm power...
+[04/20/16 13:22:54]: Arm power settled.
+[04/20/16 13:22:54]: Unknown event:motion generator activated
+[04/20/16 13:22:57]: viviane application started
+[04/20/16 13:23:05]: Cannot move: cannot cross singularity in this case.
+[04/20/16 13:23:05]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[04/20/16 13:27:12]: -----------------------------------------------
+[04/20/16 13:27:12]: Logger started
+[04/20/16 13:27:17]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 13:27:17]: Cycle time set to 0.004s
+[04/20/16 13:27:17]: Simulation cycle time set to 0.1s
+[04/20/16 13:27:17]: Controller IP address could not be updated
+[04/20/16 13:27:17]: Power shutdown delay set to 0 s
+[04/20/16 13:27:17]: Power hour count = 0:00:00
+[04/20/16 13:27:17]: Mac Address = error
+[04/20/16 13:27:17]: COM-PC: server created on all interfaces [5653]
+[04/20/16 13:27:17]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 13:27:17]: Option testMode: demo 
+[04/20/16 13:27:17]: Configuration Version: D24266424A 
+[04/20/16 13:27:17]: Machine Number: ? 
+[04/20/16 13:27:17]: Arm: rx60b-S2-R5 floor
+[04/20/16 13:27:17]: Arm serial number: ? 
+[04/20/16 13:27:17]: EP: s6.9 Nov 29 2011
+[04/20/16 13:27:17]: SCA: s6.9 Nov 29 2011
+[04/20/16 13:27:17]: PLC: s6.9 Nov 29 2011
+[04/20/16 13:27:17]: New profile : default
+[04/20/16 13:27:17]: End of arm power shutdown phase.
+[04/20/16 13:27:17]: COM-PC: create session 127.0.0.1 on port 50047 id=#59311616
+[04/20/16 13:27:19]: Unknown event:No answer
+[04/20/16 13:27:26]: MCP communication disconnected
+[04/20/16 13:27:27]: Mcp = TSimulated
+[04/20/16 13:27:27]: Unknown event:Communication established
+[04/20/16 13:27:27]: Working mode:manual.
+[04/20/16 13:27:40]: Settling arm power...
+[04/20/16 13:27:40]: Arm power settled.
+[04/20/16 13:27:41]: viviane application started
+[04/20/16 13:27:41]: Unknown event:motion generator activated
+[04/20/16 13:27:49]: Cannot move: cannot cross singularity in this case.
+[04/20/16 13:27:49]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[04/20/16 13:29:10]: viviane application stopped
+[04/20/16 13:29:51]: -----------------------------------------------
+[04/20/16 13:29:51]: Logger started
+[04/20/16 13:29:56]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 13:29:56]: Cycle time set to 0.004s
+[04/20/16 13:29:56]: Simulation cycle time set to 0.1s
+[04/20/16 13:29:56]: Controller IP address could not be updated
+[04/20/16 13:29:56]: Power shutdown delay set to 0 s
+[04/20/16 13:29:56]: Power hour count = 0:00:00
+[04/20/16 13:29:56]: Mac Address = error
+[04/20/16 13:29:56]: COM-PC: server created on all interfaces [5653]
+[04/20/16 13:29:56]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 13:29:56]: Option testMode: demo 
+[04/20/16 13:29:56]: Configuration Version: D24266424A 
+[04/20/16 13:29:56]: Machine Number: ? 
+[04/20/16 13:29:56]: Arm: rx60b-S2-R5 floor
+[04/20/16 13:29:56]: Arm serial number: ? 
+[04/20/16 13:29:56]: EP: s6.9 Nov 29 2011
+[04/20/16 13:29:56]: SCA: s6.9 Nov 29 2011
+[04/20/16 13:29:56]: PLC: s6.9 Nov 29 2011
+[04/20/16 13:29:56]: New profile : default
+[04/20/16 13:29:56]: End of arm power shutdown phase.
+[04/20/16 13:29:56]: COM-PC: create session 127.0.0.1 on port 50086 id=#59966664
+[04/20/16 13:29:58]: Unknown event:No answer
+[04/20/16 13:30:05]: MCP communication disconnected
+[04/20/16 13:30:06]: Mcp = TSimulated
+[04/20/16 13:30:06]: Unknown event:Communication established
+[04/20/16 13:30:06]: Working mode:manual.
+[04/20/16 13:30:42]: Settling arm power...
+[04/20/16 13:30:43]: Arm power settled.
+[04/20/16 13:30:43]: Unknown event:motion generator activated
+[04/20/16 13:30:46]: viviane application started
+[04/20/16 13:30:54]: Cannot move: cannot cross singularity in this case.
+[04/20/16 13:30:54]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[04/20/16 13:31:09]: viviane application stopped
+[04/20/16 13:31:20]: viviane application started
+[04/20/16 13:32:00]: Cannot move: cannot cross singularity in this case.
+[04/20/16 13:32:00]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[04/20/16 13:32:29]: Unknown event:motion generator desactivated
+[04/20/16 13:32:30]: Arm power shutdown...
+[04/20/16 13:32:30]: End of arm power shutdown phase.
+[04/20/16 13:34:25]: -----------------------------------------------
+[04/20/16 13:34:25]: Logger started
+[04/20/16 13:34:29]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 13:34:29]: Cycle time set to 0.004s
+[04/20/16 13:34:29]: Simulation cycle time set to 0.1s
+[04/20/16 13:34:29]: Controller IP address could not be updated
+[04/20/16 13:34:29]: Power shutdown delay set to 0 s
+[04/20/16 13:34:29]: Power hour count = 0:00:00
+[04/20/16 13:34:29]: Mac Address = error
+[04/20/16 13:34:29]: COM-PC: server created on all interfaces [5653]
+[04/20/16 13:34:29]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 13:34:29]: Option testMode: demo 
+[04/20/16 13:34:29]: Configuration Version: D24266424A 
+[04/20/16 13:34:29]: Machine Number: ? 
+[04/20/16 13:34:29]: Arm: rx60b-S2-R5 floor
+[04/20/16 13:34:29]: Arm serial number: ? 
+[04/20/16 13:34:29]: EP: s6.9 Nov 29 2011
+[04/20/16 13:34:29]: SCA: s6.9 Nov 29 2011
+[04/20/16 13:34:29]: PLC: s6.9 Nov 29 2011
+[04/20/16 13:34:29]: New profile : default
+[04/20/16 13:34:29]: End of arm power shutdown phase.
+[04/20/16 13:34:30]: COM-PC: create session 127.0.0.1 on port 50144 id=#60097888
+[04/20/16 13:34:32]: Unknown event:No answer
+[04/20/16 13:34:38]: MCP communication disconnected
+[04/20/16 13:34:40]: Mcp = TSimulated
+[04/20/16 13:34:40]: Unknown event:Communication established
+[04/20/16 13:34:40]: Working mode:manual.
+[04/20/16 13:35:02]: Settling arm power...
+[04/20/16 13:35:02]: Arm power settled.
+[04/20/16 13:35:03]: Unknown event:motion generator activated
+[04/20/16 13:35:05]: viviane application started
+[04/20/16 13:35:16]: viviane application stopped
+[04/20/16 13:39:28]: -----------------------------------------------
+[04/20/16 13:39:28]: Logger started
+[04/20/16 13:39:33]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 13:39:33]: Cycle time set to 0.004s
+[04/20/16 13:39:33]: Simulation cycle time set to 0.1s
+[04/20/16 13:39:33]: Controller IP address could not be updated
+[04/20/16 13:39:33]: Power shutdown delay set to 0 s
+[04/20/16 13:39:33]: Power hour count = 0:00:00
+[04/20/16 13:39:33]: Mac Address = error
+[04/20/16 13:39:33]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 13:39:33]: Option testMode: demo 
+[04/20/16 13:39:33]: Configuration Version: D24266424A 
+[04/20/16 13:39:33]: Machine Number: ? 
+[04/20/16 13:39:33]: Arm: rx60b-S2-R5 floor
+[04/20/16 13:39:33]: Arm serial number: ? 
+[04/20/16 13:39:33]: EP: s6.9 Nov 29 2011
+[04/20/16 13:39:33]: SCA: s6.9 Nov 29 2011
+[04/20/16 13:39:33]: PLC: s6.9 Nov 29 2011
+[04/20/16 13:39:33]: COM-PC: server created on all interfaces [5653]
+[04/20/16 13:39:33]: New profile : default
+[04/20/16 13:39:33]: COM-PC: create session 127.0.0.1 on port 50208 id=#61605216
+[04/20/16 13:39:33]: End of arm power shutdown phase.
+[04/20/16 13:39:35]: Unknown event:No answer
+[04/20/16 13:39:41]: MCP communication disconnected
+[04/20/16 13:39:43]: Mcp = TSimulated
+[04/20/16 13:39:43]: Unknown event:Communication established
+[04/20/16 13:39:43]: Working mode:manual.
+[04/20/16 13:39:56]: Settling arm power...
+[04/20/16 13:39:57]: Arm power settled.
+[04/20/16 13:39:57]: Unknown event:motion generator activated
+[04/20/16 13:39:59]: viviane application started
+[04/20/16 13:40:10]: viviane application stopped
+[04/20/16 13:40:22]: viviane application started
+[04/20/16 13:40:30]: viviane application stopped
+[04/20/16 13:42:28]: viviane application started
+[04/20/16 13:42:45]: viviane application stopped
+[04/20/16 13:42:48]: Arm power shutdown: working mode change.
+[04/20/16 13:42:48]: Arm power shutdown...
+[04/20/16 13:42:48]: Unknown event:motion generator desactivated
+[04/20/16 13:42:48]: Working mode:invalid.
+[04/20/16 13:42:48]: Working mode:test.
+[04/20/16 13:42:48]: End of arm power shutdown phase.
+[04/20/16 13:42:49]: MCP communication disconnected
+[04/20/16 13:43:06]: -----------------------------------------------
+[04/20/16 13:43:06]: Logger started
+[04/20/16 13:43:10]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 13:43:10]: Cycle time set to 0.004s
+[04/20/16 13:43:10]: Simulation cycle time set to 0.1s
+[04/20/16 13:43:10]: Controller IP address could not be updated
+[04/20/16 13:43:10]: Power shutdown delay set to 0 s
+[04/20/16 13:43:10]: Power hour count = 0:00:00
+[04/20/16 13:43:10]: Mac Address = error
+[04/20/16 13:43:10]: COM-PC: server created on all interfaces [5653]
+[04/20/16 13:43:10]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 13:43:10]: Option testMode: demo 
+[04/20/16 13:43:10]: Configuration Version: D24266424A 
+[04/20/16 13:43:10]: Machine Number: ? 
+[04/20/16 13:43:10]: Arm: rx60b-S2-R5 floor
+[04/20/16 13:43:10]: Arm serial number: ? 
+[04/20/16 13:43:10]: EP: s6.9 Nov 29 2011
+[04/20/16 13:43:10]: SCA: s6.9 Nov 29 2011
+[04/20/16 13:43:10]: PLC: s6.9 Nov 29 2011
+[04/20/16 13:43:10]: New profile : default
+[04/20/16 13:43:10]: COM-PC: create session 127.0.0.1 on port 50262 id=#61474248
+[04/20/16 13:43:10]: End of arm power shutdown phase.
+[04/20/16 13:43:13]: Unknown event:No answer
+[04/20/16 13:43:20]: MCP communication disconnected
+[04/20/16 13:43:21]: Mcp = TSimulated
+[04/20/16 13:43:21]: Unknown event:Communication established
+[04/20/16 13:43:21]: Working mode:invalid.
+[04/20/16 13:43:21]: Working mode:test.
+[04/20/16 13:43:25]: Saving controller context...
+[04/20/16 13:43:25]: Controller temperature: 28°C
+[04/20/16 13:43:25]: CPU temperature: 28°C
+[04/20/16 13:43:32]: viviane application started
+[04/20/16 13:43:35]: Jog mode cannot be selected: first enable arm power.
+[04/20/16 13:43:40]: Settling arm power...
+[04/20/16 13:43:41]: Arm power settled.
+[04/20/16 13:43:41]: Unknown event:motion generator activated
+[04/20/16 13:43:49]: ERR 154 Invalid movement command: invalid destination point or mdesc.
+[04/20/16 13:44:54]: -----------------------------------------------
+[04/20/16 13:44:54]: Logger started
+[04/20/16 13:44:59]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 13:44:59]: Cycle time set to 0.004s
+[04/20/16 13:44:59]: Simulation cycle time set to 0.1s
+[04/20/16 13:44:59]: Controller IP address could not be updated
+[04/20/16 13:44:59]: Power shutdown delay set to 0 s
+[04/20/16 13:44:59]: Power hour count = 0:00:00
+[04/20/16 13:44:59]: Mac Address = error
+[04/20/16 13:44:59]: COM-PC: server created on all interfaces [5653]
+[04/20/16 13:44:59]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 13:44:59]: Option testMode: demo 
+[04/20/16 13:44:59]: Configuration Version: D24266424A 
+[04/20/16 13:44:59]: Machine Number: ? 
+[04/20/16 13:44:59]: Arm: rx60b-S2-R5 floor
+[04/20/16 13:44:59]: Arm serial number: ? 
+[04/20/16 13:44:59]: EP: s6.9 Nov 29 2011
+[04/20/16 13:44:59]: SCA: s6.9 Nov 29 2011
+[04/20/16 13:44:59]: PLC: s6.9 Nov 29 2011
+[04/20/16 13:44:59]: New profile : default
+[04/20/16 13:44:59]: End of arm power shutdown phase.
+[04/20/16 13:44:59]: COM-PC: create session 127.0.0.1 on port 50293 id=#60229016
+[04/20/16 13:45:01]: Unknown event:No answer
+[04/20/16 13:45:08]: MCP communication disconnected
+[04/20/16 13:45:09]: Mcp = TSimulated
+[04/20/16 13:45:09]: Unknown event:Communication established
+[04/20/16 13:45:09]: Working mode:invalid.
+[04/20/16 13:45:09]: Working mode:remote.
+[04/20/16 13:45:13]: Saving controller context...
+[04/20/16 13:45:13]: Controller temperature: 28°C
+[04/20/16 13:45:13]: CPU temperature: 28°C
+[04/20/16 13:45:46]: Arm power enable request refused: cabinet working mode is remote or invalid.
+[04/20/16 13:45:48]: Working mode:invalid.
+[04/20/16 13:45:48]: Working mode:automatic.
+[04/20/16 13:45:51]: Saving controller context...
+[04/20/16 13:45:52]: Working mode:invalid.
+[04/20/16 13:45:52]: Working mode:manual.
+[04/20/16 13:45:53]: Settling arm power...
+[04/20/16 13:45:54]: Arm power settled.
+[04/20/16 13:45:54]: Unknown event:motion generator activated
+[04/20/16 13:45:58]: viviane application started
+[04/20/16 13:46:11]: viviane application stopped
+[04/20/16 13:47:31]: MCP communication disconnected
+[04/20/16 13:47:31]: Arm power shutdown: working mode change.
+[04/20/16 13:47:31]: Arm power shutdown...
+[04/20/16 13:47:31]: Unknown event:motion generator desactivated
+[04/20/16 13:47:37]: -----------------------------------------------
+[04/20/16 13:47:37]: Logger started
+[04/20/16 13:47:41]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 13:47:41]: Cycle time set to 0.004s
+[04/20/16 13:47:41]: Simulation cycle time set to 0.1s
+[04/20/16 13:47:41]: Controller IP address could not be updated
+[04/20/16 13:47:41]: Power shutdown delay set to 0 s
+[04/20/16 13:47:41]: Power hour count = 0:00:00
+[04/20/16 13:47:41]: Mac Address = error
+[04/20/16 13:47:41]: COM-PC: server created on all interfaces [5653]
+[04/20/16 13:47:41]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 13:47:41]: Option testMode: demo 
+[04/20/16 13:47:41]: Configuration Version: D24266424A 
+[04/20/16 13:47:41]: Machine Number: ? 
+[04/20/16 13:47:41]: Arm: rx60b-S2-R5 floor
+[04/20/16 13:47:41]: Arm serial number: ? 
+[04/20/16 13:47:41]: EP: s6.9 Nov 29 2011
+[04/20/16 13:47:41]: SCA: s6.9 Nov 29 2011
+[04/20/16 13:47:41]: PLC: s6.9 Nov 29 2011
+[04/20/16 13:47:41]: New profile : default
+[04/20/16 13:47:41]: End of arm power shutdown phase.
+[04/20/16 13:47:42]: COM-PC: create session 127.0.0.1 on port 50347 id=#60818840
+[04/20/16 13:47:43]: Unknown event:No answer
+[04/20/16 13:47:49]: MCP communication disconnected
+[04/20/16 13:47:51]: Mcp = TSimulated
+[04/20/16 13:47:51]: Unknown event:Communication established
+[04/20/16 13:47:51]: Working mode:automatic.
+[04/20/16 13:48:06]: Working mode:invalid.
+[04/20/16 13:48:07]: Working mode:manual.
+[04/20/16 13:48:10]: Settling arm power...
+[04/20/16 13:48:10]: Arm power settled.
+[04/20/16 13:48:10]: Unknown event:motion generator activated
+[04/20/16 13:48:13]: viviane application started
+[04/20/16 13:48:21]: viviane application stopped
+[04/20/16 13:48:36]: Unknown event:motion generator desactivated
+[04/20/16 13:48:36]: Arm power shutdown...
+[04/20/16 13:48:36]: End of arm power shutdown phase.
+[04/20/16 13:49:19]: -----------------------------------------------
+[04/20/16 13:49:19]: Logger started
+[04/20/16 13:49:23]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 13:49:23]: Cycle time set to 0.004s
+[04/20/16 13:49:23]: Simulation cycle time set to 0.1s
+[04/20/16 13:49:23]: Controller IP address could not be updated
+[04/20/16 13:49:23]: Power shutdown delay set to 0 s
+[04/20/16 13:49:23]: Power hour count = 0:00:00
+[04/20/16 13:49:23]: Mac Address = error
+[04/20/16 13:49:23]: COM-PC: server created on all interfaces [5653]
+[04/20/16 13:49:23]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 13:49:23]: Option testMode: demo 
+[04/20/16 13:49:23]: Configuration Version: D24266424A 
+[04/20/16 13:49:23]: Machine Number: ? 
+[04/20/16 13:49:23]: Arm: rx60b-S2-R5 floor
+[04/20/16 13:49:23]: Arm serial number: ? 
+[04/20/16 13:49:23]: EP: s6.9 Nov 29 2011
+[04/20/16 13:49:23]: SCA: s6.9 Nov 29 2011
+[04/20/16 13:49:23]: PLC: s6.9 Nov 29 2011
+[04/20/16 13:49:23]: New profile : default
+[04/20/16 13:49:23]: End of arm power shutdown phase.
+[04/20/16 13:49:23]: COM-PC: create session 127.0.0.1 on port 50371 id=#59573392
+[04/20/16 13:49:26]: Unknown event:No answer
+[04/20/16 13:49:33]: MCP communication disconnected
+[04/20/16 13:49:34]: Mcp = TSimulated
+[04/20/16 13:49:34]: Unknown event:Communication established
+[04/20/16 13:49:34]: Working mode:automatic.
+[04/20/16 13:49:39]: Working mode:invalid.
+[04/20/16 13:49:39]: Working mode:manual.
+[04/20/16 13:49:41]: Settling arm power...
+[04/20/16 13:49:41]: Arm power settled.
+[04/20/16 13:49:41]: Unknown event:motion generator activated
+[04/20/16 13:50:01]: viviane application started
+[04/20/16 13:50:11]: ERR 154 Invalid movement command: invalid destination point or mdesc.
+[04/20/16 13:51:23]: viviane application stopped
+[04/20/16 13:51:25]: Manual motion mode:Frame
+[04/20/16 13:51:25]: Unknown event:motion generator desactivated
+[04/20/16 13:51:25]: Unknown event:motion generator activated
+[04/20/16 13:51:42]: Unknown event:Motion reports error while pushing a move.
+[04/20/16 13:51:43]: Unknown event:motion generator desactivated
+[04/20/16 13:51:43]: Unknown event:motion generator activated
+[04/20/16 13:51:47]: Jog move impossible: first select a jog mode.
+[04/20/16 13:51:47]: Manual motion mode:Joint
+[04/20/16 13:51:48]: Unknown event:motion generator desactivated
+[04/20/16 13:51:48]: Unknown event:motion generator activated
+[04/20/16 13:51:50]: Manual motion mode:Frame
+[04/20/16 13:51:51]: Unknown event:Motion reports error while pushing a move.
+[04/20/16 13:51:51]: Unknown event:motion generator desactivated
+[04/20/16 13:51:51]: Unknown event:motion generator activated
+[04/20/16 13:51:58]: Manual motion mode:Frame
+[04/20/16 13:51:58]: Unknown event:motion generator desactivated
+[04/20/16 13:51:58]: Unknown event:motion generator activated
+[04/20/16 13:52:56]: -----------------------------------------------
+[04/20/16 13:52:56]: Logger started
+[04/20/16 13:53:00]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 13:53:00]: Cycle time set to 0.004s
+[04/20/16 13:53:00]: Simulation cycle time set to 0.1s
+[04/20/16 13:53:00]: Controller IP address could not be updated
+[04/20/16 13:53:00]: Power shutdown delay set to 0 s
+[04/20/16 13:53:00]: Power hour count = 0:00:00
+[04/20/16 13:53:00]: Mac Address = error
+[04/20/16 13:53:00]: COM-PC: server created on all interfaces [5653]
+[04/20/16 13:53:00]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 13:53:00]: Option testMode: demo 
+[04/20/16 13:53:00]: Configuration Version: D24266424A 
+[04/20/16 13:53:00]: Machine Number: ? 
+[04/20/16 13:53:00]: Arm: rx60b-S2-R5 floor
+[04/20/16 13:53:00]: Arm serial number: ? 
+[04/20/16 13:53:00]: EP: s6.9 Nov 29 2011
+[04/20/16 13:53:00]: SCA: s6.9 Nov 29 2011
+[04/20/16 13:53:00]: PLC: s6.9 Nov 29 2011
+[04/20/16 13:53:00]: New profile : default
+[04/20/16 13:53:00]: End of arm power shutdown phase.
+[04/20/16 13:53:01]: COM-PC: create session 127.0.0.1 on port 50423 id=#61474200
+[04/20/16 13:53:02]: Unknown event:No answer
+[04/20/16 13:53:08]: MCP communication disconnected
+[04/20/16 13:53:11]: Mcp = TSimulated
+[04/20/16 13:53:11]: Unknown event:Communication established
+[04/20/16 13:53:11]: Working mode:automatic.
+[04/20/16 13:53:29]: Working mode:invalid.
+[04/20/16 13:53:29]: Working mode:manual.
+[04/20/16 13:53:30]: Settling arm power...
+[04/20/16 13:53:30]: Arm power settled.
+[04/20/16 13:53:31]: Unknown event:motion generator activated
+[04/20/16 13:53:32]: viviane application started
+[04/20/16 13:53:42]: ERR 154 Invalid movement command: invalid destination point or mdesc.
+[04/20/16 13:54:12]: -----------------------------------------------
+[04/20/16 13:54:12]: Logger started
+[04/20/16 13:54:16]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 13:54:16]: Cycle time set to 0.004s
+[04/20/16 13:54:16]: Simulation cycle time set to 0.1s
+[04/20/16 13:54:16]: Controller IP address could not be updated
+[04/20/16 13:54:16]: Power shutdown delay set to 0 s
+[04/20/16 13:54:16]: Power hour count = 0:00:00
+[04/20/16 13:54:16]: Mac Address = error
+[04/20/16 13:54:16]: COM-PC: server created on all interfaces [5653]
+[04/20/16 13:54:16]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 13:54:16]: Option testMode: demo 
+[04/20/16 13:54:16]: Configuration Version: D24266424A 
+[04/20/16 13:54:16]: Machine Number: ? 
+[04/20/16 13:54:16]: Arm: rx60b-S2-R5 floor
+[04/20/16 13:54:16]: Arm serial number: ? 
+[04/20/16 13:54:16]: EP: s6.9 Nov 29 2011
+[04/20/16 13:54:16]: SCA: s6.9 Nov 29 2011
+[04/20/16 13:54:16]: PLC: s6.9 Nov 29 2011
+[04/20/16 13:54:16]: New profile : default
+[04/20/16 13:54:16]: End of arm power shutdown phase.
+[04/20/16 13:54:16]: COM-PC: create session 127.0.0.1 on port 50448 id=#60229120
+[04/20/16 13:54:18]: Unknown event:No answer
+[04/20/16 13:54:25]: MCP communication disconnected
+[04/20/16 13:54:27]: Mcp = TSimulated
+[04/20/16 13:54:27]: Unknown event:Communication established
+[04/20/16 13:54:27]: Working mode:automatic.
+[04/20/16 13:54:39]: Working mode:invalid.
+[04/20/16 13:54:39]: Working mode:manual.
+[04/20/16 13:54:40]: Settling arm power...
+[04/20/16 13:54:41]: Arm power settled.
+[04/20/16 13:54:41]: Unknown event:motion generator activated
+[04/20/16 13:54:53]: viviane application started
+[04/20/16 13:54:59]: ERR 154 Invalid movement command: invalid destination point or mdesc.
+[04/20/16 13:56:24]: viviane application stopped
+[04/20/16 13:56:33]: viviane application started
+[04/20/16 13:56:38]: ERR 154 Invalid movement command: invalid destination point or mdesc.
+[04/20/16 14:16:48]: -----------------------------------------------
+[04/20/16 14:16:48]: Logger started
+[04/20/16 14:16:52]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 14:16:52]: Cycle time set to 0.004s
+[04/20/16 14:16:52]: Simulation cycle time set to 0.1s
+[04/20/16 14:16:52]: Controller IP address could not be updated
+[04/20/16 14:16:52]: Power shutdown delay set to 0 s
+[04/20/16 14:16:52]: Power hour count = 0:00:00
+[04/20/16 14:16:52]: Mac Address = error
+[04/20/16 14:16:52]: COM-PC: server created on all interfaces [5653]
+[04/20/16 14:16:52]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 14:16:52]: Option testMode: demo 
+[04/20/16 14:16:52]: Configuration Version: D24266424A 
+[04/20/16 14:16:52]: Machine Number: ? 
+[04/20/16 14:16:52]: Arm: rx60b-S2-R5 floor
+[04/20/16 14:16:52]: Arm serial number: ? 
+[04/20/16 14:16:52]: EP: s6.9 Nov 29 2011
+[04/20/16 14:16:52]: SCA: s6.9 Nov 29 2011
+[04/20/16 14:16:52]: PLC: s6.9 Nov 29 2011
+[04/20/16 14:16:52]: New profile : default
+[04/20/16 14:16:52]: End of arm power shutdown phase.
+[04/20/16 14:16:52]: COM-PC: create session 127.0.0.1 on port 50626 id=#60622176
+[04/20/16 14:16:54]: Unknown event:No answer
+[04/20/16 14:17:01]: MCP communication disconnected
+[04/20/16 14:17:02]: Mcp = TSimulated
+[04/20/16 14:17:02]: Unknown event:Communication established
+[04/20/16 14:17:02]: Working mode:automatic.
+[04/20/16 14:17:15]: Working mode:invalid.
+[04/20/16 14:17:15]: Working mode:manual.
+[04/20/16 14:17:16]: Settling arm power...
+[04/20/16 14:17:17]: Arm power settled.
+[04/20/16 14:17:17]: Unknown event:motion generator activated
+[04/20/16 14:17:21]: viviane application started
+[04/20/16 14:17:26]: viviane application stopped
+[04/20/16 14:17:49]: Unknown event:motion generator desactivated
+[04/20/16 14:17:49]: Arm power shutdown...
+[04/20/16 14:17:49]: End of arm power shutdown phase.
+[04/20/16 14:17:52]: Saving controller context...
+[04/20/16 14:17:52]: Controller temperature: 28°C
+[04/20/16 14:17:52]: CPU temperature: 28°C
+[04/20/16 14:18:29]: viviane application started
+[04/20/16 14:18:30]: Jog mode cannot be selected: first enable arm power.
+[04/20/16 14:18:33]: Settling arm power...
+[04/20/16 14:18:33]: Arm power shutdown...
+[04/20/16 14:18:33]: Cannot apply arm power: press and hold the deadman switch.
+[04/20/16 14:18:33]: End of arm power shutdown phase.
+[04/20/16 14:18:33]: Settling arm power...
+[04/20/16 14:18:34]: Arm power settled.
+[04/20/16 14:18:34]: Unknown event:motion generator activated
+[04/20/16 14:18:45]: viviane application stopped
+[04/20/16 14:19:05]: MCP communication disconnected
+[04/20/16 14:19:05]: Arm power shutdown: working mode change.
+[04/20/16 14:19:05]: Arm power shutdown...
+[04/20/16 14:19:05]: Unknown event:motion generator desactivated
+[04/20/16 14:19:05]: End of arm power shutdown phase.
+[04/20/16 14:19:18]: -----------------------------------------------
+[04/20/16 14:19:18]: Logger started
+[04/20/16 14:19:22]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 14:19:22]: Cycle time set to 0.004s
+[04/20/16 14:19:22]: Simulation cycle time set to 0.1s
+[04/20/16 14:19:22]: Controller IP address could not be updated
+[04/20/16 14:19:22]: Power shutdown delay set to 0 s
+[04/20/16 14:19:22]: Power hour count = 0:00:00
+[04/20/16 14:19:22]: Mac Address = error
+[04/20/16 14:19:22]: COM-PC: server created on all interfaces [5653]
+[04/20/16 14:19:22]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 14:19:22]: Option testMode: demo 
+[04/20/16 14:19:22]: Configuration Version: D24266424A 
+[04/20/16 14:19:22]: Machine Number: ? 
+[04/20/16 14:19:22]: Arm: rx60b-S2-R5 floor
+[04/20/16 14:19:22]: Arm serial number: ? 
+[04/20/16 14:19:22]: EP: s6.9 Nov 29 2011
+[04/20/16 14:19:22]: SCA: s6.9 Nov 29 2011
+[04/20/16 14:19:22]: PLC: s6.9 Nov 29 2011
+[04/20/16 14:19:22]: New profile : default
+[04/20/16 14:19:22]: End of arm power shutdown phase.
+[04/20/16 14:19:22]: COM-PC: create session 127.0.0.1 on port 50677 id=#61080824
+[04/20/16 14:19:24]: Unknown event:No answer
+[04/20/16 14:19:31]: MCP communication disconnected
+[04/20/16 14:19:32]: Mcp = TSimulated
+[04/20/16 14:19:32]: Unknown event:Communication established
+[04/20/16 14:19:32]: Working mode:manual.
+[04/20/16 14:19:47]: Settling arm power...
+[04/20/16 14:19:48]: Arm power settled.
+[04/20/16 14:19:48]: Unknown event:motion generator activated
+[04/20/16 14:19:50]: viviane application started
+[04/20/16 14:20:03]: viviane application stopped
+[04/20/16 14:22:16]: -----------------------------------------------
+[04/20/16 14:22:16]: Logger started
+[04/20/16 14:22:20]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 14:22:20]: Cycle time set to 0.004s
+[04/20/16 14:22:20]: Simulation cycle time set to 0.1s
+[04/20/16 14:22:20]: Controller IP address could not be updated
+[04/20/16 14:22:20]: Power shutdown delay set to 0 s
+[04/20/16 14:22:20]: Power hour count = 0:00:00
+[04/20/16 14:22:20]: Mac Address = error
+[04/20/16 14:22:20]: COM-PC: server created on all interfaces [5653]
+[04/20/16 14:22:20]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 14:22:20]: Option testMode: demo 
+[04/20/16 14:22:20]: Configuration Version: D24266424A 
+[04/20/16 14:22:20]: Machine Number: ? 
+[04/20/16 14:22:20]: Arm: rx60b-S2-R5 floor
+[04/20/16 14:22:20]: Arm serial number: ? 
+[04/20/16 14:22:20]: EP: s6.9 Nov 29 2011
+[04/20/16 14:22:20]: SCA: s6.9 Nov 29 2011
+[04/20/16 14:22:20]: PLC: s6.9 Nov 29 2011
+[04/20/16 14:22:20]: New profile : default
+[04/20/16 14:22:20]: End of arm power shutdown phase.
+[04/20/16 14:22:20]: COM-PC: create session 127.0.0.1 on port 50723 id=#61802088
+[04/20/16 14:22:22]: Unknown event:No answer
+[04/20/16 14:22:29]: MCP communication disconnected
+[04/20/16 14:22:30]: Mcp = TSimulated
+[04/20/16 14:22:30]: Unknown event:Communication established
+[04/20/16 14:22:31]: Working mode:manual.
+[04/20/16 14:22:45]: Settling arm power...
+[04/20/16 14:22:45]: Arm power settled.
+[04/20/16 14:22:46]: Unknown event:motion generator activated
+[04/20/16 14:22:48]: viviane application started
+[04/20/16 14:22:55]: viviane application stopped
+[04/20/16 14:28:21]: -----------------------------------------------
+[04/20/16 14:28:21]: Logger started
+[04/20/16 14:28:25]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[04/20/16 14:28:25]: Cycle time set to 0.004s
+[04/20/16 14:28:25]: Simulation cycle time set to 0.1s
+[04/20/16 14:28:25]: Controller IP address could not be updated
+[04/20/16 14:28:25]: Power shutdown delay set to 0 s
+[04/20/16 14:28:25]: Power hour count = 0:00:00
+[04/20/16 14:28:25]: Mac Address = error
+[04/20/16 14:28:25]: COM-PC: server created on all interfaces [5653]
+[04/20/16 14:28:25]: VAL3: s6.9.1 Feb 20 2012
+[04/20/16 14:28:25]: Option testMode: demo 
+[04/20/16 14:28:25]: Configuration Version: D24266424A 
+[04/20/16 14:28:25]: Machine Number: ? 
+[04/20/16 14:28:25]: Arm: rx60b-S2-R5 floor
+[04/20/16 14:28:25]: Arm serial number: ? 
+[04/20/16 14:28:25]: EP: s6.9 Nov 29 2011
+[04/20/16 14:28:25]: SCA: s6.9 Nov 29 2011
+[04/20/16 14:28:25]: PLC: s6.9 Nov 29 2011
+[04/20/16 14:28:25]: New profile : default
+[04/20/16 14:28:25]: End of arm power shutdown phase.
+[04/20/16 14:28:25]: COM-PC: create session 127.0.0.1 on port 50774 id=#60884320
+[04/20/16 14:28:27]: Unknown event:No answer
+[04/20/16 14:28:34]: MCP communication disconnected
+[04/20/16 14:28:36]: Mcp = TSimulated
+[04/20/16 14:28:36]: Unknown event:Communication established
+[04/20/16 14:28:36]: Working mode:manual.
+[04/20/16 14:28:57]: Settling arm power...
+[04/20/16 14:28:57]: Arm power settled.
+[04/20/16 14:28:58]: Unknown event:motion generator activated
+[04/20/16 14:29:34]: viviane application started
+[04/20/16 14:29:52]: viviane application stopped
+[04/20/16 14:30:02]: Arm power shutdown: working mode change.
+[04/20/16 14:30:02]: Arm power shutdown...
+[04/20/16 14:30:02]: Unknown event:motion generator desactivated
+[04/20/16 14:30:02]: Working mode:invalid.
+[04/20/16 14:30:02]: Working mode:test.
+[04/20/16 14:30:02]: End of arm power shutdown phase.
+[04/20/16 14:30:05]: Saving controller context...
+[04/20/16 14:30:05]: Controller temperature: 28°C
+[04/20/16 14:30:05]: CPU temperature: 28°C
+[05/19/16 10:37:11]: -----------------------------------------------
+[05/19/16 10:37:11]: Logger started
+[05/19/16 10:37:15]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[05/19/16 10:37:15]: Cycle time set to 0.004s
+[05/19/16 10:37:15]: Simulation cycle time set to 0.1s
+[05/19/16 10:37:15]: Controller IP address could not be updated
+[05/19/16 10:37:15]: Power shutdown delay set to 0 s
+[05/19/16 10:37:15]: Power hour count = 0:00:00
+[05/19/16 10:37:15]: Mac Address = error
+[05/19/16 10:37:15]: COM-PC: server created on all interfaces [5653]
+[05/19/16 10:37:15]: VAL3: s6.9.1 Feb 20 2012
+[05/19/16 10:37:15]: Option testMode: demo 
+[05/19/16 10:37:15]: Configuration Version: D24266424A 
+[05/19/16 10:37:15]: Machine Number: ? 
+[05/19/16 10:37:15]: Arm: rx60b-S2-R5 floor
+[05/19/16 10:37:15]: Arm serial number: ? 
+[05/19/16 10:37:15]: EP: s6.9 Nov 29 2011
+[05/19/16 10:37:15]: SCA: s6.9 Nov 29 2011
+[05/19/16 10:37:15]: PLC: s6.9 Nov 29 2011
+[05/19/16 10:37:15]: New profile : default
+[05/19/16 10:37:15]: End of arm power shutdown phase.
+[05/19/16 10:37:15]: COM-PC: create session 127.0.0.1 on port 50071 id=#59839872
+[05/19/16 10:37:18]: Unknown event:No answer
+[05/19/16 10:37:25]: MCP communication disconnected
+[05/19/16 10:37:26]: Mcp = TSimulated
+[05/19/16 10:37:26]: Unknown event:Communication established
+[05/19/16 10:37:26]: Working mode:test.
+[05/19/16 10:37:42]: Working mode:invalid.
+[05/19/16 10:37:43]: Working mode:remote.
+[05/19/16 10:37:45]: Saving controller context...
+[05/19/16 10:37:45]: Controller temperature: 28°C
+[05/19/16 10:37:45]: CPU temperature: 28°C
+[05/19/16 10:37:47]: Working mode:invalid.
+[05/19/16 10:37:47]: Working mode:automatic.
+[05/19/16 10:37:50]: Working mode:invalid.
+[05/19/16 10:37:50]: Working mode:manual.
+[05/19/16 10:37:51]: Working mode:invalid.
+[05/19/16 10:37:51]: Working mode:test.
+[05/19/16 10:37:51]: Working mode:invalid.
+[05/19/16 10:37:51]: Working mode:remote.
+[05/19/16 10:37:52]: Working mode:invalid.
+[05/19/16 10:37:52]: Working mode:automatic.
+[05/19/16 10:37:55]: Saving controller context...
+[05/19/16 10:38:05]: viviane application started
+[05/19/16 10:38:10]: Settling arm power...
+[05/19/16 10:38:11]: Arm power settled.
+[05/19/16 10:38:11]: Unknown event:motion generator activated
+[05/19/16 10:38:29]: viviane application stopped
+[05/19/16 10:39:10]: viviane application started
+[05/19/16 10:39:25]: viviane application stopped
+[05/19/16 10:40:01]: viviane application started
+[05/19/16 10:40:16]: viviane application stopped
+[05/19/16 10:41:21]: viviane application started
+[05/19/16 10:41:40]: viviane application stopped
+[05/19/16 10:41:43]: viviane application started
+[05/19/16 10:41:57]: viviane application stopped
+[05/19/16 11:08:17]: Saving controller context...
+[05/19/16 11:18:47]: viviane application started
+[05/19/16 11:18:47]: Cannot move: destination is out of software axis limits
+[05/19/16 11:20:05]: viviane application stopped
+[05/19/16 11:20:10]: viviane application started
+[05/19/16 11:20:10]: Cannot move: destination is out of software axis limits
+[05/19/16 11:26:30]: viviane application stopped
+[05/19/16 11:26:45]: viviane application started
+[05/19/16 11:26:45]: Cannot move: destination is out of software axis limits
+[05/19/16 11:26:58]: -----------------------------------------------
+[05/19/16 11:26:58]: Logger started
+[05/19/16 11:27:02]: Unknown event:Communication established
+[05/19/16 11:27:02]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[05/19/16 11:27:02]: Cycle time set to 0.004s
+[05/19/16 11:27:02]: Simulation cycle time set to 0.1s
+[05/19/16 11:27:02]: Controller IP address could not be updated
+[05/19/16 11:27:02]: Mcp = TSimulated
+[05/19/16 11:27:02]: Power shutdown delay set to 0 s
+[05/19/16 11:27:02]: Power hour count = 0:00:00
+[05/19/16 11:27:02]: Mac Address = error
+[05/19/16 11:27:02]: COM-PC: server created on all interfaces [5653]
+[05/19/16 11:27:02]: Working mode:invalid.
+[05/19/16 11:27:02]: VAL3: s6.9.1 Feb 20 2012
+[05/19/16 11:27:02]: Option testMode: demo 
+[05/19/16 11:27:02]: Configuration Version: D24266424A 
+[05/19/16 11:27:02]: Machine Number: ? 
+[05/19/16 11:27:02]: Arm: rx60b-S2-R5 floor
+[05/19/16 11:27:02]: Arm serial number: ? 
+[05/19/16 11:27:02]: EP: s6.9 Nov 29 2011
+[05/19/16 11:27:02]: SCA: s6.9 Nov 29 2011
+[05/19/16 11:27:02]: PLC: s6.9 Nov 29 2011
+[05/19/16 11:27:02]: New profile : default
+[05/19/16 11:27:02]: COM-PC: create session 127.0.0.1 on port 51241 id=#60233088
+[05/19/16 11:27:02]: Working mode:automatic.
+[05/19/16 11:27:02]: End of arm power shutdown phase.
+[05/19/16 11:27:23]: viviane application started
+[05/19/16 11:27:30]: Settling arm power...
+[05/19/16 11:27:30]: Arm power settled.
+[05/19/16 11:27:31]: Unknown event:motion generator activated
+[05/19/16 11:27:31]: Cannot move: destination is out of software axis limits
+[05/19/16 11:31:30]: viviane application stopped
+[05/19/16 11:31:35]: viviane application started
+[05/19/16 11:31:35]: Cannot move: destination is out of software axis limits
+[05/19/16 11:33:14]: viviane application stopped
+[05/19/16 11:33:38]: viviane application started
+[05/19/16 11:33:44]: viviane application stopped
+[05/19/16 11:34:17]: viviane application started
+[05/19/16 11:34:24]: viviane application stopped
+[05/19/16 11:34:40]: viviane application started
+[05/19/16 11:34:46]: viviane application stopped
+[05/19/16 11:57:34]: Saving controller context...
+[05/19/16 11:57:34]: Controller temperature: 28°C
+[05/19/16 11:57:34]: CPU temperature: 28°C

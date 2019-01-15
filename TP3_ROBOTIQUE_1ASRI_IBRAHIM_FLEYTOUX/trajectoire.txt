@@ -1,0 +1,26 @@
+
+begin  
+// A COMPLETER
+//num movej(joint jPosition, tool tOutil, mdesc mDesc)
+//go position initial
+// -30, -40, -100, -21.89, 0.1, 20.64
+movel(P1,tTool,triangle)
+//approche de A à 100 mm à 25%
+//saisie objet
+// -26.47, -49.12, -100.97, -21.89, 0.1, 20.64
+//on ouvre la pince
+// -26.47, -51.95, -100.97, -21.89, 0.1, 20.64
+//on ferme la pince
+//départ de A pour 100 mm à 10%
+//approche de B à 70 mm à 25%
+//descente verticale en B à 10%
+//
+// -44.79, -52.31, -100.97, -21.89, 0.1, 20.64
+movel(P1,tTool,triangle)
+movel(P2,tTool,triangle)
+movel(P3,tTool,triangle)
+movel(P4,tTool,triangle)
+movel(P1,tTool,triangle)
+waitEndMove()
+end
+            

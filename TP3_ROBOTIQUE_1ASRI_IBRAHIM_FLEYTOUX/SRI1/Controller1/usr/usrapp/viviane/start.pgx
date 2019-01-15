@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<programList xmlns="ProgramNameSpace">
+  <program name="start" public="false">
+    <description />
+    <paramSection />
+    <localSection />
+    <source>
+      <code>
+begin  
+// A COMPLETER
+//num movej(joint jPosition, tool tOutil, mdesc mDesc)
+//go position initial
+// -30, -40, -200, -21.89, 0.1, 20.64
+movej(POS_PROG[0],tTool,m25)
+//approche de A à 100 mm à 25%
+// -26.47, -49.12, -100.97, -21.89, 0.1, 20.64
+movej(POS_PROG[1],tTool,m25)
+//saisie objet
+//on ouvre la pince
+open(tTool)
+// -26.47, -51.95, -100.97, -21.89, 0.1, 20.64
+movej(POS_PROG[2],tTool,m10)
+//on ferme la pince
+close(tTool)
+movej(POS_PROG[0],tTool,m25)
+//départ de A pour 100 mm à 10%
+//approche de B à 70 mm à 25%
+// -44.79, -52.31, -100.97, -21.89, 0.1, 20.64
+movej(POS_PROG[3],tTool,m25)
+open(tTool)
+//descente verticale en B à 10%
+
+movej(POS_PROG[0],tTool,m25)
+close(tTool)
+
+waitEndMove()
+end
+            </code>
+    </source>
+  </program>
+</programList>

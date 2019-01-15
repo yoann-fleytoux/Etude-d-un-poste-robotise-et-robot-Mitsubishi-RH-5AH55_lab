@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataList xmlns="DataNameSpace" >
+  <aioSection />
+  <boolSection />
+  <configRsSection />
+  <configSection />
+  <configVrbSection />
+  <dioSection />
+  <frameSection>
+    <frame name="world" public="false" privilege="0" >
+      <fFather alias="" name="" fatherIndex="0" />
+      <valueFrame index="0" >
+        <tfValue x="0" y="0" z="0" rx="0" ry="0" rz="0" />
+      </valueFrame>
+    </frame>
+  </frameSection>
+  <jointRsSection />
+  <jointSection>
+    <joint name="Aj" public="true" privilege="0" >
+      <valueJoint index="0" >
+        <jointValue j1="157" j2="84" j3="-50" j4="-206" j5="-41" j6="-51" />
+      </valueJoint>
+    </joint>
+    <joint name="Aj1" public="true" privilege="0" >
+      <valueJoint index="0" >
+        <jointValue j1="157" j2="84" j3="-50" j4="-206" j5="-41" j6="-51" />
+      </valueJoint>
+    </joint>
+    <joint name="POS_PROG" public="true" privilege="0" >
+      <valueJoint index="0" >
+        <jointValue j1="-30" j2="-40" j3="-100.97" j4="-21.89" j5="0.1" j6="20.64" />
+      </valueJoint>
+      <valueJoint index="1" >
+        <jointValue j1="-26.47" j2="-49.12" j3="-100.97" j4="-21.89" j5="0.1" j6="20.64" />
+      </valueJoint>
+      <valueJoint index="2" >
+        <jointValue j1="-26.47" j2="-51.95" j3="-100.97" j4="-21.89" j5="0.1" j6="20.64" />
+      </valueJoint>
+      <valueJoint index="3" >
+        <jointValue j1="-44.79" j2="-52.31" j3="-100.97" j4="-21.89" j5="0.1" j6="20.64" />
+      </valueJoint>
+    </joint>
+  </jointSection>
+  <jointVrbSection />
+  <mdescSection>
+    <mdesc name="m10" public="false" privilege="0" >
+      <valueMdesc index="0" >
+        <mdescValue accel="100" vel="10" decel="100" tmax="99999" rmax="99999" blend="off" leave="50" reach="50" />
+      </valueMdesc>
+    </mdesc>
+    <mdesc name="m25" public="false" privilege="0" >
+      <valueMdesc index="0" >
+        <mdescValue accel="100" vel="25" decel="100" tmax="99999" rmax="99999" blend="off" leave="50" reach="50" />
+      </valueMdesc>
+    </mdesc>
+    <mdesc name="triangle" public="true" privilege="0" >
+      <valueMdesc index="0" >
+        <mdescValue accel="100" vel="25" decel="100" tmax="99999" rmax="99999" blend="off" leave="10" reach="60" />
+      </valueMdesc>
+    </mdesc>
+  </mdescSection>
+  <numSection />
+  <pointRsSection />
+  <pointSection>
+    <point name="A" public="false" privilege="0" >
+      <pFather alias="" name="world" fatherIndex="0" />
+      <valuePoint index="0" >
+        <tpValue x="-491.395468" y="175.661576" z="306.55151" rx="-64.506331" ry="-46.560129" rz="-136.772716" />
+        <cpValue shoulder="ssame" elbow="esame" wrist="wsame"/>
+      </valuePoint>
+    </point>
+    <point name="P1" public="false" privilege="0" >
+      <pFather alias="" name="world" fatherIndex="0" />
+      <valuePoint index="0" >
+        <tpValue x="-236.725978" y="575.420475" z="103.0317" rx="-64.524572" ry="-46.692726" rz="-136.514376" />
+        <cpValue shoulder="ssame" elbow="esame" wrist="wsame"/>
+      </valuePoint>
+    </point>
+    <point name="P2" public="false" privilege="0" >
+      <pFather alias="" name="world" fatherIndex="0" />
+      <valuePoint index="0" >
+        <tpValue x="-341.965536" y="514.038921" z="-154.261294" rx="-64.623052" ry="-46.603955" rz="-136.697037" />
+        <cpValue shoulder="ssame" elbow="esame" wrist="wsame"/>
+      </valuePoint>
+    </point>
+    <point name="P3" public="false" privilege="0" >
+      <pFather alias="" name="world" fatherIndex="0" />
+      <valuePoint index="0" >
+        <tpValue x="-226.021217" y="303.326141" z="-425.70319" rx="-64.716018" ry="-46.522335" rz="-136.955545" />
+        <cpValue shoulder="ssame" elbow="esame" wrist="wsame"/>
+      </valuePoint>
+    </point>
+    <point name="P4" public="false" privilege="0" >
+      <pFather alias="" name="world" fatherIndex="0" />
+      <valuePoint index="0" >
+        <tpValue x="-36.469001" y="335.23543" z="-120.705555" rx="-64.77756" ry="-46.473097" rz="-137.250441" />
+        <cpValue shoulder="ssame" elbow="esame" wrist="wsame"/>
+      </valuePoint>
+    </point>
+  </pointSection>
+  <pointVrbSection />
+  <sioSection />
+  <stringSection />
+  <toolSection>
+    <tool name="flange" public="false" privilege="0" >
+      <tFather alias="" name="" fatherIndex="0" />
+      <valueTool index="0" >
+        <ttValue x="0" y="0" z="0" rx="0" ry="0" rz="0" />
+        <io alias="io" name="valve1" ioIndex="0" open="0" close="0" />
+      </valueTool>
+    </tool>
+    <tool name="tTool" public="false" privilege="0" >
+      <tFather alias="" name="flange" fatherIndex="0" />
+      <valueTool index="0" >
+        <ttValue x="0" y="0" z="0" rx="0" ry="0" rz="0" />
+        <io alias="io" name="valve1" ioIndex="0" open="0" close="0" />
+      </valueTool>
+    </tool>
+  </toolSection>
+  <trsfSection />
+</dataList>

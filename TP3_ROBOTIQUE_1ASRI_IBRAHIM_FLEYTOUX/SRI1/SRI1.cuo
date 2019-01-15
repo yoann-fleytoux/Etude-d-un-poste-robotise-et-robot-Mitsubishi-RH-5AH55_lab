@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CellUserOptions>
+  <Controller Name="Controller1">
+    <Application>Disk://viviane/viviane.pjx</Application>
+  </Controller>
+  <Option Name="SynchronizerMode">
+    <Synchronizers>
+      <Synchronizer Controller="Controller1" Mode="Emulator" />
+    </Synchronizers>
+  </Option>
+  <Option Name="3DView">
+    <_3DView Visible="true" />
+  </Option>
+  <Option Name="DataTreeView">
+    <Nodes>
+      <Node Path="SRI1" IsExpanded="true" />
+      <Node Path="SRI1\Controller1" IsExpanded="true" />
+      <Node Path="SRI1\Controller1\viviane" IsExpanded="true" />
+      <Node Path="SRI1\Controller1\viviane\mdesc" IsExpanded="true" />
+      <Node Path="SRI1\Controller1\viviane\mdesc\triangle" IsExpanded="true" />
+      <Node Path="SRI1\Controller1\viviane\tool" IsExpanded="true" />
+      <Node Path="SRI1\Controller1\viviane\tool\tTool" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="CellExplorer">
+    <Nodes>
+      <Node Path="SRI1" IsExpanded="true" />
+      <Node Path="SRI1\Controller1" IsExpanded="true" />
+      <Node Path="SRI1\Controller1\viviane" IsExpanded="true" />
+      <Node Path="SRI1\Controller1\viviane\start" IsExpanded="true" />
+      <Node Path="SRI1\Controller1\viviane\stop" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="GeometryView">
+    <Nodes>
+      <Node Path="SRI1" IsExpanded="true" />
+      <Node Path="SRI1\Controller1" IsExpanded="true" />
+      <Node Path="SRI1\Controller1\viviane" IsExpanded="true" />
+      <Node Path="SRI1\Controller1\viviane\flange[0]" IsExpanded="true" />
+      <Node Path="SRI1\Controller1\viviane\flange[0]\tTool" IsExpanded="true" />
+      <Node Path="SRI1\Controller1\viviane\jointRx" IsExpanded="true" />
+    </Nodes>
+  </Option>
+</CellUserOptions>
